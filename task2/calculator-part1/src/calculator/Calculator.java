@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package epam;
+package calculator;
 
 /**
  *
  * @author Dell
  */
-public class Epam {
+public class Calculator {
 
     /**
      * @param args the command line arguments
