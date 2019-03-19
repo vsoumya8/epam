@@ -1,0 +1,48 @@
+input:
+standard //Standard level(standard or above standard or high standard)
+15    //area squareFeet
+false  //automation (true == required, false == not required)
+
+output:
+18000  //cost
+
+
+
+input:
+above standard //Standard level(standard or above standard or high standard)
+10    //area squareFeet
+false  //automation (true == required, false == not required)
+
+output:
+15000  //cost
+
+
+
+input:
+high standard //Standard level(standard or above standard or high standard)
+16    //area squareFeet
+false  //automation (true == required, false == not required)
+
+output:
+28800  //cost
+
+
+
+input:
+high standard //Standard level(standard or above standard or high standard)
+15   //area squareFeet
+true //automation (true == required, false == not required)
+
+output:
+37500  //cost
+
+
+
+input:
+standard //Standard level(standard or above standard or high standard)
+12    //area squareFeet
+true //automation (true == required, false == not required)
+
+output:
+Sorry! Service not available
+-1

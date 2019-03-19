@@ -1,0 +1,19 @@
+input:
+100  //principle
+5   //rate in %
+1   // period in years
+2   //no of times compounded per year
+
+output:
+5.0   //simple interest
+105.06249999999999    // compound interest + principle
+
+input:
+5000  //principle
+5   //rate in %
+10   // period in years
+12   //no of times compounded per year
+
+output:
+2500.0  //simple interest
+8235.0474884514    // compound interest + principle
